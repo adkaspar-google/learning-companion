@@ -1,0 +1,1 @@
+from learning_companion.config.config import Config
