@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56eea016-e582-4d38-b31f-70218bf923a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning-companion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/config/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/graph/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/graph/chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/graph/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/graph/nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/graph/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/retriever/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/retriever/retriever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/retriever/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/web_search/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_companion/web_search/google_cse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="56eea016-e582-4d38-b31f-70218bf923a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734114249934</updated>
       <workItem from="1734114252231" duration="1951000" />
-      <workItem from="1734446929997" duration="15751000" />
+      <workItem from="1734446929997" duration="16532000" />
     </task>
     <servers />
   </component>
