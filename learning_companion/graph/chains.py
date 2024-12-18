@@ -3,7 +3,6 @@ from typing import Literal
 from langchain import hub
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnableSequence
 from pydantic import BaseModel, Field
 from langchain_google_vertexai import ChatVertexAI
 

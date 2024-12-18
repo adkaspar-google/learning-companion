@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56eea016-e582-4d38-b31f-70218bf923a4" name="Changes" comment="" />
+    <list default="true" id="56eea016-e582-4d38-b31f-70218bf923a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adkaspar-sandbox.json" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_companion/graph/chains.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_companion/graph/chains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734114249934</updated>
       <workItem from="1734114252231" duration="1951000" />
-      <workItem from="1734446929997" duration="16532000" />
+      <workItem from="1734446929997" duration="19223000" />
     </task>
     <servers />
   </component>
@@ -206,7 +211,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learning_companion$retriever.coverage" NAME="retriever Coverage Results" MODIFIED="1734533497250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning-companion/retriever" />
-    <SUITE FILE_PATH="coverage/learning_companion$main.coverage" NAME="main Coverage Results" MODIFIED="1734554045099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_companion" />
+    <SUITE FILE_PATH="coverage/learning_companion$main.coverage" NAME="main Coverage Results" MODIFIED="1734559731546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_companion" />
     <SUITE FILE_PATH="coverage/learning_companion$retriever__1_.coverage" NAME="retriever (1) Coverage Results" MODIFIED="1734534058576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_companion/retriever" />
     <SUITE FILE_PATH="coverage/learning_companion$chains.coverage" NAME="chains Coverage Results" MODIFIED="1734532209634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning-companion" />
   </component>
